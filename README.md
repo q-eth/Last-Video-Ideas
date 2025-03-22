@@ -1,4 +1,4 @@
-# Welcome to Penis Production Last video Repositiry
+# Welcome to Penis Production Last video Repository
 ### Introduction
 Сюда можно (нужно) сбрасывать файлы/идеи которые потенциально могут быть реализованы в видево, посвященному двум годам, проведенным нами на фф. \
 Ниже приведены инструкции и правила по пользованию этим репозиторием.
